@@ -1,6 +1,6 @@
 <!-- note marker start -->
 NOTE: This repo contains only the documentation for the private BoltsOps repo code.
-Original file: https://github.com/boltops-test/fake-mod/blob/master/README.md
+Original file: https://github.com/boltops-test-learn/fake-mod/blob/master/README.md
 The docs are publish so they are available for interested subscribers.
 For access to the source code, you can become a BoltOps subscriber.
 See: https://learn.boltops.com
@@ -9,4 +9,4 @@ See: https://learn.boltops.com
 
 ## Test
 
-https://github.com/boltops-test-docs/fake-mod/blob/master/subfolder/b.txt
+https://github.com/boltops-test/fake-mod/blob/master/subfolder/b.txt
